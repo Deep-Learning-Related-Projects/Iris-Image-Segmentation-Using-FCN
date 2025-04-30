@@ -26,7 +26,7 @@ The U-Net plays a crucial role in biomedical image segmentation. It is widely us
 
 1. Clone the repo:
    
-   git clone https://github.com/your-username/Iris-Image-Segmentation-Using-FCN.git
+   git clone https://github.com/sfansaria/Iris-Image-Segmentation-Using-FCN.git
    cd Iris-Image-Segmentation-Using-FCN
 2. pip install -r requirements.txt
 

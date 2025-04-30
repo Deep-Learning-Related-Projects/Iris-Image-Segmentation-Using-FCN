@@ -17,8 +17,8 @@ The U-Net plays a crucial role in biomedical image segmentation. It is widely us
 - **Jupyter Notebook**
 - 
 **🧪 Results**
---> Achieved high-accuracy segmentation with FCN
---> Visual outputs show effective separation of the iris region
+--> Achieved **99.85%** accuracy on validation dataset with U-Net
+--> Output Image shows effective separation of the iris region
 --> Evaluation metrics: 
 
 ---

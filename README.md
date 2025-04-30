@@ -15,15 +15,21 @@ The U-Net plays a crucial role in biomedical image segmentation. It is widely us
 - **TensorFlow / Keras**
 - **NumPy, Matplotlib, OpenCV**
 - **Jupyter Notebook**
-- 
+ 
 **🧪 Results**
---> Achieved **99.85%** accuracy on validation dataset with U-Net
---> Output Image shows effective separation of the iris region
---> Evaluation metrics: 
-
----
+- Achieved **99.85%** accuracy on validation dataset with U-Net
+- Output Image shows effective separation of the iris region
+ 
 
 ## 📂 Repository Structure
+## 🚀 How to Run
+
+1. Clone the repo:
+   
+   git clone https://github.com/your-username/Iris-Image-Segmentation-Using-FCN.git
+   cd Iris-Image-Segmentation-Using-FCN
+2. pip install -r requirements.txt
+
 
 
 
